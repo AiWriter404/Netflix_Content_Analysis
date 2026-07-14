@@ -1,33 +1,38 @@
-# Netflix_Content_Analysis
-Exploratory Data Analysis of Netflix Movies and TV Shows  dataset using Python. Includes content analysis, country  insights, ratings, and genre distribution.
 # 🎬 Netflix Content Analysis
 
-Exploratory Data Analysis of Netflix Movies and TV Shows
+Exploratory Data Analysis of 8,790 Netflix titles
 using Python to find content trends and insights.
 
 ---
 
 ## 📊 Project Overview
 
-Analyzed Netflix dataset to understand content distribution,
-top countries, popular genres, and rating patterns.
+Analyzed Netflix Movies and TV Shows dataset to understand
+content distribution, top countries, popular genres,
+ratings, and director insights.
 
 ---
 
 ## 🔍 What I Did
 
-- Cleaned and prepared Netflix dataset
+- Cleaned dataset — missing values and duplicates
+- Fixed date column and extracted year and month
 - Analyzed Movies vs TV Shows ratio
 - Found top content producing countries
-- Explored rating distribution
-- Identified popular genres
-- Analyzed content added over years
+- Explored popular genres and ratings
+- Identified top directors on Netflix
 
 ---
 
 ## 📈 Key Findings
 
-- Coming soon after analysis!
+- Netflix has 69.7% Movies and 30.3% TV Shows
+- USA is #1 with 3,681 titles
+- India is #2 with 1,046 titles
+- Top genre: International Movies — 2,752 titles
+- Most common rating: TV-MA — adult content dominates
+- Peak year: 2019 with 2,016 titles added
+- Top director: Rajiv Chilaka with 22 titles
 
 ---
 
@@ -41,9 +46,19 @@ top countries, popular genres, and rating patterns.
 
 ---
 
+## 📁 Dataset
+
+- Source: Kaggle — Netflix Movies and TV Shows
+- Total titles: 8,790
+- Movies: 6,126
+- TV Shows: 2,664
+- Date range: 2008 to 2021
+
+---
+
 ## 📓 Kaggle Notebook
 
-[View Full Notebook on Kaggle](#)
+[View Full Notebook on Kaggle](https://www.kaggle.com/code/muhammadumer7804/netflix-content-analysis)
 
 ---
 
